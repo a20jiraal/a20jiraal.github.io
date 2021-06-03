@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed rel="self" xmlns="http://www.w3.org/2005/Atom">
+
+        <title>Mi Paniga Web</title>
+        <subtitle>Practica Atom</subtitle>
+        <link href="https://a20jiraal.github.io/"/>
+        <updated>2021-05-31T14:30:00Z</updated>
+        <author>
+                <name>Alberto Jiménez Ramos</name>
+                <email>a20jiraal@iesgrancapitan.org</email>
+        </author>
+        <id>https://a20jiraal.github.io/</id>
+
+        <entry>
+                <title>Artíuclo resumen</title>
+                <link href="https://a20jiraal.github.io/#resumen"/>
+                <id>https://a20jiraal.github.io/#resumen</id>
+                <updated>2021-05-31T14:30:00Z</updated>
+                <summary>Antes de nada me gustaría hacer un resumen sobre esta página web.
+                Esta página esta dedicada para un resumen sobre el curso académico Administración de Sistemas Informáticos en Red</summary>
+                <author>
+                	<name>Alberto Jiménez Ramos</name>
+                	<email>a20jiraal@iesgrancapitan.org</email>
+       			 </author>
+
+        </entry>
+
+        <entry>
+                <title>Artículo asignaturask</title>
+                <link href="https://a20jiraal.github.io/#asignaturas"/>
+                <id>https://a20jiraal.github.io/#asignaturas</id>
+                <updated>2021-05-29T14:30:00Z</updated>
+                <summary>En cuanto a las asignaturas del curso tiene un total de 6, fundamentos hardware, gestión de base de datos, implantación de sistemas operativos, lenguaje de marcas, planificación y administración de redes y formación y orientacion laboral la cual he convalidado</summary>
+                <author>
+               		<name>Alberto Jiménez Ramos</name>
+               		<email>a20jiraal@iesgrancapitan.org</email>
+       			 </author>
+        </entry>
+</feed>
